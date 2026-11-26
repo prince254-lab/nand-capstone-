@@ -12,7 +12,7 @@ A beginner-friendly implementation split into the three assignment parts. Python
 Open PowerShell in this folder (`Hack-Computer-Capstone`) and follow these steps:
 
 ### Part A — Hardware
-Open the official HardwareSimulator, open each chip in `Part-A-Computer`, and run the course-provided test scripts. Save the five screenshots in `Part-A-Computer/tests/` or `Documentation/`.
+Open the official HardwareSimulator, open each chip in `Part-A-Computer`, and run the course-provided test scripts. Save the five screenshots in `Part-A-Computer/tests/
 
 ### Part B — Assembler
 ```powershell
@@ -38,7 +38,6 @@ Click the emulator window, hold any key to show the box, and release it to erase
 
 ## What to submit
 - Push the entire `Hack-Computer-Capstone/` folder into your existing lab GitHub repository.
-- Complete `Documentation/REPORT_TEMPLATE.md` and add your real test screenshots.
 - Read `Documentation/VIVA_QUESTIONS.md` and practise changing K / moving the box.
 
 ## Important accuracy notes
